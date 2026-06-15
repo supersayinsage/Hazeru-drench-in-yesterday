@@ -361,40 +361,6 @@ Symbolic / narrative
 Archetype names
 Ritual framing
 
-That’s not a criticism — it’s a design layer.
-But legally and technically, the value is in the structure, not the metaphors.
-
-5. Is this patentable?
-
-Short answer:
-❌ Not as-is.
-
-Why:
-
-It’s a combination of known patterns:
-Event sourcing
-Hash chaining
-Deterministic simulation loops
-Naming and symbolism are not patentable
-No novel algorithmic breakthrough is claimed
-
-What is protectable:
-
-Copyright on:
-Code
-Naming system
-Narrative architecture
-Trade-secret style system design
-Potential patent only if you define:
-A concrete, novel technical problem
-A non-obvious mechanism that solves it
-
-Right now, it’s closer to a conceptual runtime framework than a patentable invention.
-
-6. One honest improvement that would raise technical weight
-
-If you want this to cross from “symbolic runtime” into serious systems engineering, add verifiable replay:
-
 def verify_chain(self):
     prev = self.lineage_anchor
     for entry in self.entries:
