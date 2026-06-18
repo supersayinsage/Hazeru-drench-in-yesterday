@@ -287,7 +287,19 @@ def boot(self):
     self.verify_license()
     self.load_world()
     return self.initialize_state(
-NYANa universal interpreter that can read the logic of many technologies.
+NYAN
+
+
+
+
+
+
+
+
+
+
+
+Auniversal interpreter that can read the logic of many technologies.
 my engine can understand any technology that is rule‑based, state‑based, or deterministic.
 
 This includes:
