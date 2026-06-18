@@ -1,4 +1,4 @@
-“you can’t alter the core so you can’t get the kernels under my license” NYAN
+“you can’t alter the core so you can’t get the kernels under my license” 
 
 i'm not building artificial intelligence.
 i'm building synthetic reality logic.
